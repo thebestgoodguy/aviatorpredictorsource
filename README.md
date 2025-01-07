@@ -9,27 +9,29 @@ On telegram and other platforms, scammers selling Aviator predictor apps. All ap
 
 V8 server generates random numbers :) And most of them entered manually.
 
-  public void run() {
-          AviatorActivity aviatorActivity;
-          TextView textView;
-          AviatorActivity aviatorActivity2;
-          ProgressBar progressBar;
-          AviatorActivity aviatorActivity3;
-          double d;
-          AviatorActivity aviatorActivity4;
-          ProgressBar progressBar2;
-          aviatorActivity = this.a.a;
-          textView = aviatorActivity.o;
-          textView.setText("3.18x");
-          aviatorActivity2 = this.a.a;
-          progressBar = aviatorActivity2.p;
-          aviatorActivity3 = this.a.a;
-          d = aviatorActivity3.e;
-          progressBar.setProgress((int) d);
-          aviatorActivity4 = this.a.a;
-          progressBar2 = aviatorActivity4.p;
-          progressBar2.setVisibility(8);
-      }
+'''
+public void run() {
+        AviatorActivity aviatorActivity;
+        TextView textView;
+        AviatorActivity aviatorActivity2;
+        ProgressBar progressBar;
+        AviatorActivity aviatorActivity3;
+        double d;
+        AviatorActivity aviatorActivity4;
+        ProgressBar progressBar2;
+        aviatorActivity = this.a.a;
+        textView = aviatorActivity.o;
+        textView.setText("3.18x");
+        aviatorActivity2 = this.a.a;
+        progressBar = aviatorActivity2.p;
+        aviatorActivity3 = this.a.a;
+        d = aviatorActivity3.e;
+        progressBar.setProgress((int) d);
+        aviatorActivity4 = this.a.a;
+        progressBar2 = aviatorActivity4.p;
+        progressBar2.setVisibility(8);
+    }
+'''    
 
 V8 app is based on a modification of basic camera app :)
 
