@@ -5,7 +5,11 @@ On telegram and other platforms, scammers selling Aviator predictor apps. All ap
 
 🚩Apps And Scammers
 
-⚡ Aviator Predictor V8
+⚡ Aviator Predictor V8 And V8 Server
+
+V8 server generates random numbers :)
+
+V8 app is based on a modification of basic camera app :)
 
 ❗Telegram Channel : https://t.me/aviatorhack50
 ❗Scammers Telegram : @MR_FREEDOOM_1 - @xbetavaitorpredictor
