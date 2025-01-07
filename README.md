@@ -1,5 +1,5 @@
-# aviatorpredictorsource
-This repository has fake aviator predictor apps source codes. Dont buy any app. All are fake.
+# Aviator Predictor Bot | Aviator Predictor Bot Apk | Dont Get Scammed
+This repository has fake aviator predictor apps source codes. Dont buy any app. All are fake. If you wanna hire a developer from Fiverr, there are scammers too.
 
 On telegram and other platforms, scammers selling Aviator predictor apps. All apps are fake. I will publish these fake apps source codes in this repository.
 
