@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/vscroll1" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ffb71c1c" android:gravity="center" android:layout_gravity="center" android:id="@id/textview1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="READ CAREFULLY" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/linear4" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="30.0sp" android:textColor="#ff000000" android:id="@id/textview2" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Note: rules for using the program:-\nTo fully use the program, you need to register through the link we posted and enter the allpredictor promo code, top up your account with at least $20, these are important, and link your 1win id number to our program and activate it, the program is absolutely free and works for one month." />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/linear5" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:id="@id/textview3" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Click OK if you agree to the terms" />
+            </LinearLayout>
+            <Button android:textSize="20.0sp" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/button1" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="OK" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
