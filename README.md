@@ -15,8 +15,8 @@ V8 app is based on a modification of basic camera app :)
 ❗Scammers Telegram : @MR_FREEDOOM_1 - @xbetavaitorpredictor
 
 ⚡ Aviator Predictor V4
-
-❗Scammer Telegram : @realhack25
+❗Telegram channel : https://t.me/aviatorpredictorv4x0
+❗Scammer Telegram : @realhack25 - @predictorxadmin
 
 🚩Below Are Aviator Predictor App Developers (Scammers)
 
