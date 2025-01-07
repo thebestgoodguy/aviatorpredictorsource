@@ -35,6 +35,8 @@ https://t.me/aviatorpredictorhack100win
 
 https://t.me/aviatorpredictorv4x0
 
+https://t.me/samo_tips
+
 
 
 ⚡Scammers On Telegram
