@@ -9,7 +9,7 @@ On telegram and other platforms, scammers selling Aviator predictor apps. All ap
 
 V8 server generates random numbers :) And most of them entered manually.
 
-'''
+```
 public void run() {
         AviatorActivity aviatorActivity;
         TextView textView;
@@ -31,7 +31,7 @@ public void run() {
         progressBar2 = aviatorActivity4.p;
         progressBar2.setVisibility(8);
     }
-'''    
+```   
 
 V8 app is based on a modification of basic camera app :)
 
