@@ -30,18 +30,27 @@ public void run() {
 ⚡Scamming Telegram Channels
 
 https://t.me/aviatorhack50 
+
 https://t.me/aviatorpredictorhack100win
+
 https://t.me/aviatorpredictorv4x0
+
 
 
 ⚡Scammers On Telegram
 
 @aviatorpredictor_admin
+
 @MR_FREEDOOM_1
+
 @xbetavaitorpredictor
+
 @aviator_predictor_official_Free
+
 @realhack25
+
 @predictorxadmin
+
 @Expert0112
 
 There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates.
