@@ -37,6 +37,10 @@ https://t.me/aviatorpredictorv4x0
 
 https://t.me/samo_tips
 
+https://t.me/AVIATOR_SIGNALS_INDIA_A
+
+
+
 
 
 ⚡Scammers On Telegram
@@ -54,5 +58,13 @@ https://t.me/samo_tips
 @predictorxadmin
 
 @Expert0112
+
+@Ates_Aviator_Bot
+
+@Emre_Money1_Bot
+
+@AviatorVedat_bot
+
+
 
 There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates.
