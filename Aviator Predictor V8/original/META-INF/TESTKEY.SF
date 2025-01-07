@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: bW9acvtuk+MbC1YzcgHA6XIW8zfhzkNcu0ztdfQkf80=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 1Xhp6Wuc47RXD5XMPvrtLtPv8rw3G8FESc8+BA5RdiA=
+
+Name: classes.dex
+SHA-256-Digest: GRnGv4ZrxbNSW/5n69ox5XNsgpal0KdC2sgFpHqsSRc=
+
+Name: classes2.dex
+SHA-256-Digest: uaapHM87/yl+CfblfodG4qFJRkaL9bJW+y0Hpf80p2Y=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: wFVyTZsS6s53UAE4hjhUv8R/Ukb7T0Ye3grSvKS+xMI=
+
+Name: res/drawable-xhdpi-v4/ccc.png
+SHA-256-Digest: MK7FVcW2yq2P4BAjk48zt4wn4zTL/VOL4rYe/KocIEo=
+
+Name: res/drawable-xhdpi-v4/choose.png
+SHA-256-Digest: DHTq8/onXwaNrcXBTj9LH0CoF+S8ZLpXWn/7Pzvjskw=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/drawable-xhdpi-v4/fff.png
+SHA-256-Digest: CVj64SPN887oN/gnnEHba0IsoVwTqKXNA9pGpqPcZdc=
+
+Name: res/drawable-xhdpi-v4/hhh.png
+SHA-256-Digest: QIhKaNMYRH9TljEe0veBHRb9J9qKpDVkN9jxXCZ5AC8=
+
+Name: res/drawable-xhdpi-v4/ic_vpn_key_black.png
+SHA-256-Digest: y8WAcgpmQ8JX7AlzhxbkrNxhn/bjS6GeoLzTbwNH6oM=
+
+Name: res/drawable-xhdpi-v4/ujj.png
+SHA-256-Digest: +9aKydJYuhJCRsUidCMY4upICMsJwOV8E1qa4JyEeIs=
+
+Name: res/layout/choose.xml
+SHA-256-Digest: PIQaOoNTnpVo1KKxzSeQUkS9QBUlykF2+GXMAWP8HlE=
+
+Name: res/layout/hoo.xml
+SHA-256-Digest: AkbwVfFwLCJ+5RrEh2taeldwg/ir7z1BLIiGdyXKZOM=
+
+Name: res/layout/hoop.xml
+SHA-256-Digest: 073FhC0O2w2CKIfShHe6IcLhNzfPh2g33a2gUgICA1E=
+
+Name: res/layout/hoopp.xml
+SHA-256-Digest: OxOl+eRtH/AlRgtX7uYgX3s1cfI5C3bNjRZ0Q86+jSA=
+
+Name: res/layout/hooppp.xml
+SHA-256-Digest: xUJiK+KUPkqF2RA3N+t5RFuzJNoHTPpxgHDOJoz4RCg=
+
+Name: res/layout/loading.xml
+SHA-256-Digest: yxPoxHA90+s25g8edS8YJeNljvHzrkZO+kh4EVRv0VY=
+
+Name: res/layout/main.xml
+SHA-256-Digest: j+TdkYGj9F/9AnYBfdXz7SAqqVGYZoLUXBN/pzvVRHo=
+
+Name: res/layout/nice.xml
+SHA-256-Digest: HxA14t/DapzanLS3jTlNvc+5Di4Ptun8+RIn9eME9dU=
+
+Name: res/layout/password.xml
+SHA-256-Digest: 1otPP1yyRX4n3t8Dm7Dv0JE93vb0o6MjVqGgz44mKP8=
+
+Name: res/layout/star.xml
+SHA-256-Digest: D+PtP4og6fS9HiI9yfLED3g4jhOybeLq5viponLs6u8=
+
+Name: res/layout/startgame.xml
+SHA-256-Digest: XkOzUsRq0AM1NiAXV8PjXG+x8OtOwzkz+eKLlDN5RNE=
+
+Name: resources.arsc
+SHA-256-Digest: ZjxdAl3i3Oss42mnY7yfydqU+oxDR98Mhth0mS6dbrQ=
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button1" />
+    <item type="id" name="digitalclock1" />
+    <item type="id" name="edittext1" />
+    <item type="id" name="imageview1" />
+    <item type="id" name="imageview2" />
+    <item type="id" name="linear1" />
+    <item type="id" name="linear2" />
+    <item type="id" name="linear3" />
+    <item type="id" name="linear4" />
+    <item type="id" name="linear5" />
+    <item type="id" name="linear6" />
+    <item type="id" name="linear7" />
+    <item type="id" name="linear8" />
+    <item type="id" name="progressbar1" />
+    <item type="id" name="progressbar2" />
+    <item type="id" name="ratingbar1" />
+    <item type="id" name="ratingbar2" />
+    <item type="id" name="textview1" />
+    <item type="id" name="textview2" />
+</resources>

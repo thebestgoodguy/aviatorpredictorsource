@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.my.newproject2" platformBuildVersionCode="1" platformBuildVersionName="1.0">
+    <uses-permission android:name="android.permission.NETWORK_STATS_PROVIDER"/>
+    <application android:allowBackup="true" android:icon="@drawable/app_icon" android:label="@string/app_name" android:name=".SketchApplication" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".MainActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".LoadingActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".NiceActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".ChooseActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".PasswordActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".StartgameActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".StarActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".HooActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".HoopActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".HooppActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".HoopppActivity" android:supportsPictureInPicture="true" android:theme="@style/NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".DebugActivity" android:screenOrientation="portrait"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+    </application>
+</manifest>

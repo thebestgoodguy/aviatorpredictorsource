@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/linear1" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <DigitalClock android:id="@id/digitalclock1" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear6" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center" android:id="@id/textview1" android:background="#fff44336" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="₩AVIATOR PREDICTOR₩" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear5" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/imageview1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/hhh" android:scaleType="center" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear4" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:background="@drawable/ujj" android:padding="8.0dip" android:layout_width="300.0dip" android:layout_height="300.0dip">
+            <TextView android:textSize="40.0sp" android:textStyle="bold" android:textColor="#fff44336" android:gravity="center" android:layout_gravity="center" android:id="@id/textview2" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="5.38x" />
+        </LinearLayout>
+        <ProgressBar android:id="@id/progressbar1" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:indeterminate="false" style="?android:progressBarStyle" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/button1" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="NEXT GAME" />
+    </LinearLayout>
+</LinearLayout>

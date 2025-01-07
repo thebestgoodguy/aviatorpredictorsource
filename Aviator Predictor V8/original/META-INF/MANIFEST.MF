@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: rd4VfuvdxRiMT5jrbbTyA51NcLKc5DBFwyppjtsHpKI=
+
+Name: classes.dex
+SHA-256-Digest: cPZaXcLZ7qcx7/5IrLv90vGn7+FRtkfzDkoSRpH83DA=
+
+Name: classes2.dex
+SHA-256-Digest: wWUC0/a2wTpP57iRcjkj/fl+aTAIjhqjUDOT0ClD41I=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: qN7bAVYGBAdV9W2EhkP0mZSk/vC7tflBV65YY7pQDmQ=
+
+Name: res/drawable-xhdpi-v4/ccc.png
+SHA-256-Digest: TC2wrPOl6C4/7uUw7qgQaGcUUn2HchPhPDw53GKt+mI=
+
+Name: res/drawable-xhdpi-v4/choose.png
+SHA-256-Digest: ZOBL75AST5QpJ4nP2aji+T6aT4Np1hiINHEINkRe2uw=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: B0d9ijOaAGx/hf4odj1JhA/R45GJYIgbcpizgNCiiUc=
+
+Name: res/drawable-xhdpi-v4/fff.png
+SHA-256-Digest: BjmMYGL0gm+osHMQq6SSlmaed9zjEP/a2/QG1asAf70=
+
+Name: res/drawable-xhdpi-v4/hhh.png
+SHA-256-Digest: L7UnOP/ET6rmdz3Y30Hv5fpHzV4v9bpJe74O4KbFk7M=
+
+Name: res/drawable-xhdpi-v4/ic_vpn_key_black.png
+SHA-256-Digest: 2nLchBC+elTcmXBS5kmRKd0Ul6/j9nZ8vDHfmUi8X3w=
+
+Name: res/drawable-xhdpi-v4/ujj.png
+SHA-256-Digest: QFlaSC3oRzbb5aczV82jTu5I3xk49I3aazO1VVPOyTQ=
+
+Name: res/layout/choose.xml
+SHA-256-Digest: /Imt6GlpqsZj+daT25w2xFERSDWD+sZGl6TlWvTv784=
+
+Name: res/layout/hoo.xml
+SHA-256-Digest: ddfcuAHYZNCWU72fWMo3DhZrKmEf+YUc5W/xFbPIZW0=
+
+Name: res/layout/hoop.xml
+SHA-256-Digest: fJXEGoKM9h3IIg9aW4IXX95IqC4CNjQaI0LUjHwbi+4=
+
+Name: res/layout/hoopp.xml
+SHA-256-Digest: nllsrvor6vgnb65iyI8eeRmIgqy4dboRgSQcBQup15s=
+
+Name: res/layout/hooppp.xml
+SHA-256-Digest: zW/OV/Per6f7SaRrgcj1rTmpXenAyWrEIix0wOZhG5E=
+
+Name: res/layout/loading.xml
+SHA-256-Digest: JeDJMgkRZEEj7vS7We4+ZW1o5lU5hjQCL+8tZbjF6TE=
+
+Name: res/layout/main.xml
+SHA-256-Digest: q3MLGt5vnCs/b3Yf/IpYNmUZyBSdaW/i0MxtiKOCHio=
+
+Name: res/layout/nice.xml
+SHA-256-Digest: GwSkb50Y5PTT/YfKwtt/L4vwKhWVIZmwyh04Ehh5VBU=
+
+Name: res/layout/password.xml
+SHA-256-Digest: 4l70H6/SpsylI9wy6ielACQxUKkCqo9o4ThTcpK+sLA=
+
+Name: res/layout/star.xml
+SHA-256-Digest: JpNPcFk6fjqJYIs86RjOh9enMGsEKEYrryEwqbT+pa8=
+
+Name: res/layout/startgame.xml
+SHA-256-Digest: RJ2DQ0XL3+ora5P04Thf0fP0mXhus1tHFqqr1P2DD20=
+
+Name: resources.arsc
+SHA-256-Digest: g2ycLY/9Tt1ICwr4CAveoCfIdvYzmjoDzjrr+EZ/Z6w=
+
