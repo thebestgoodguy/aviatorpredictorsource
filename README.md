@@ -11,8 +11,8 @@ V8 server generates random numbers :)
 
 V8 app is based on a modification of basic camera app :)
 
-❗Telegram Channel : https://t.me/aviatorhack50
-❗Scammers Telegram : @MR_FREEDOOM_1 - @xbetavaitorpredictor
+❗Telegram Channel : https://t.me/aviatorhack50 - https://t.me/aviatorpredictorhack100win
+❗Scammers Telegram : @MR_FREEDOOM_1 - @xbetavaitorpredictor - @aviator_predictor_official_Free
 
 ⚡ Aviator Predictor V4
 ❗Telegram channel : https://t.me/aviatorpredictorv4x0
