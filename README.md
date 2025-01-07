@@ -22,4 +22,4 @@ V8 app is based on a modification of basic camera app :)
 
 ❗At beginning they offer and make deal with a price after some time , they want extra costs like api cost, apk link generation cost etc..
 
-❗Telegram : @Alishawwf - @Expert0112
+❗Telegram : @Expert0112
