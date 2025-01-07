@@ -39,6 +39,8 @@ https://t.me/samo_tips
 
 https://t.me/AVIATOR_SIGNALS_INDIA_A
 
+https://t.me/aviator_signal
+
 
 
 
@@ -67,4 +69,6 @@ https://t.me/AVIATOR_SIGNALS_INDIA_A
 
 
 
-There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates.
+There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates. Most of them invites you to register with their promo codes. 
+
+Think about it  if they really make money from app why they try to sell :)
