@@ -41,6 +41,16 @@ https://t.me/AVIATOR_SIGNALS_INDIA_A
 
 https://t.me/aviator_signal
 
+https://t.me/aviator_lucky_jet_free_Signals
+
+https://t.me/aviatorslayer
+
+https://t.me/vipAviator4signals
+
+https://t.me/luckyjetbysalman
+
+https://t.me/freesignal08
+
 
 
 
