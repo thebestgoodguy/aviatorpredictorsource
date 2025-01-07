@@ -13,3 +13,9 @@ On telegram and other platforms, scammers selling Aviator predictor apps. All ap
 ⚡ Aviator Predictor V4
 
 ❗Scammer Telegram : @realhack25
+
+🚩Below Are Aviator Predictor App Developers (Scammers)
+
+❗At beginning they offer and make deal with a price after some time , they want extra costs like api cost, apk link generation cost etc..
+
+❗Telegram : @Alishawwf - @Expert0112
