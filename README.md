@@ -79,8 +79,12 @@ https://aviatorgameplay.net/
 
 @AviatorVedat_bot
 
+@Alishawwf (Big scammer) = This guy is a big scammer. You can see fiver profile ---> https://ibb.co/9yddR80 And Telegram is -> https://ibb.co/zsx6D7M
+
 
 
 There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates. Most of them invites you to register with their promo codes. 
 
 Think about it  if they really make money from app why they try to sell :)
+
+
