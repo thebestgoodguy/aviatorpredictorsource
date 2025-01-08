@@ -53,6 +53,8 @@ https://t.me/freesignal08
 
 https://t.me/Aviaterpredictor
 
+https://aviatorgameplay.net/
+
 
 
 ⚡Scammers On Telegram
