@@ -79,6 +79,8 @@ https://aviatorgameplay.net/
 
 @AviatorVedat_bot
 
+@Alishawwf (This is the bigger scammer in list. Careful about him.)
+
 
 
 
