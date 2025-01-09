@@ -79,7 +79,6 @@ https://aviatorgameplay.net/
 
 @AviatorVedat_bot
 
-@Alishawwf (Big scammer) = This guy is a big scammer. You can see fiver profile ---> https://ibb.co/9yddR80 And Telegram is -> https://ibb.co/zsx6D7M
 
 
 
