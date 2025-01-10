@@ -1,4 +1,4 @@
-# Aviator Predictor Bot | Aviator Predictor Bot Apk | Dont Get Scammed
+# Aviator Predictor App Source | Dont Get Scammed
 This repository has fake aviator predictor apps source code so you can inspect them by yourself. All are fake apps. There is no way to guess the ratio on aviator. Because it uses random ratios every time. If you wanna hire a developer from Fiverr, there are scammers too.
 
 AS below code you can see scammers created ton of functions like below that has manually bet rates
