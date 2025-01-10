@@ -53,6 +53,8 @@ https://t.me/freesignal08
 
 https://t.me/Aviaterpredictor
 
+https://t.me/samo_tips
+
 https://aviatorgameplay.net/
 
 
@@ -79,7 +81,7 @@ https://aviatorgameplay.net/
 
 @AviatorVedat_bot
 
-@Alishawwf (This is the bigger scammer in list. Careful about him.)
+@Alishawwf (This is the bigger scammer in list. Careful about him. Fiverr profile -> https://ibb.co/mvZyVFX  - Scammer Telegram Profile -> https://ibb.co/Wg3x8F1
 
 
 
