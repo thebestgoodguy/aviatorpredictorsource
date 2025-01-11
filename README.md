@@ -59,7 +59,7 @@ https://aviatorgameplay.net/
 
 
 
-⚡Scammers On Telegram
+⚡Scammers On Telegram And Fiverr
 
 @aviatorpredictor_admin
 
@@ -83,7 +83,7 @@ https://aviatorgameplay.net/
 
 @Alishawwf (This is the bigger scammer in list. Careful about him. Fiverr profile -> https://ibb.co/mvZyVFX  - Scammer Telegram Profile -> https://ibb.co/Wg3x8F1
 
-
+Maries Shane nick named scammer on fiverr. Profile -> https://ibb.co/n8P98bR Phone - > https://ibb.co/bbyc7fz
 
 
 There are most of them out there, which arent listed here. So be careful. All the apps are same, just different templates. Most of them invites you to register with their promo codes. 
